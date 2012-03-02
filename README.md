@@ -10,7 +10,7 @@ Android
 -------
 To build the Android project edit your Android SDK location in the local.properties file. Then do:
     
-    ant clean debug instal
+    ant clean debug install
 
 
 iOS
